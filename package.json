@@ -1,6 +1,6 @@
 {
   "name": "crybu-prova",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Crybu Prova API",
   "author": "Crybu Prova <>",
   "types": "dist/index.d.ts",
